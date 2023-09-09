@@ -17,6 +17,6 @@ internal class Program
             duck.flyBehaviour.Fly();
             Console.WriteLine("");
         }
-        
+
     }
 }
