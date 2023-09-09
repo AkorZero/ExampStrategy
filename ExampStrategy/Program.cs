@@ -8,6 +8,7 @@ internal class Program
 
         List<DuckBase> ducks = new List<DuckBase>();
         ducks.Add(new SimpleDuck());
+        ducks.Add(new ExoticDuck());
 
         foreach (var duck in ducks)
         {
